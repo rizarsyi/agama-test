@@ -2,15 +2,14 @@
     "test": {
         "license": "MIT",
         "github_uri": "https://github.com/rizarsyi/agama-test",
-        "project_name": "test",
-        "gh_author": "rizarsyi",
         "author": "rizarsyi",
         "gh_repo_path": "agama-test",
         "author_website": "https://github.com/rizarsyi/agama-test",
         "last_updated": "1681203425309",
-        "project_description": "dasdsads",
-        "version": "0.0.1",
-        "type": "community"
+        "version": "1.0.0",
+        "type": "community",
+        "projectName": "test",
+        "description": "dasdsads"
     },
     "lorem": {
         "license": "MIT",
