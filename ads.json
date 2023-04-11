@@ -15,14 +15,13 @@
     "lorem": {
         "license": "MIT",
         "github_uri": "https://github.com/rizarsyi/agama-test",
-        "project_name": "lorem",
-        "gh_author": "rizarsyi",
         "author": "rizarsyi",
         "gh_repo_path": "agama-test",
         "author_website": "https://github.com/rizarsyi/agama-test",
         "last_updated": "1681204499616",
-        "project_description": "lorem ipsum dolor sit amet",
-        "version": "0.0.1",
-        "type": "community"
+        "version": "1.0.0",
+        "type": "community",
+        "projectName": "lorem",
+        "description": "lorem ipsum dolor sit amet"
     }
 }
