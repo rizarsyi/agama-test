@@ -20,5 +20,16 @@
         "githubUri": "https://github.com/rizarsyi/agama-test",
         "license": "MIT",
         "lastUpdated": "1682017562959"
+    },
+    "dfdgfg": {
+        "projectName": "dfdgfg",
+        "description": "fdsfdsfdsf",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1682295363302"
     }
 }
