@@ -1,0 +1,55 @@
+[
+  {
+    "id": "Agama-start-Flow-45d9dabc-1699-439d-8860-fc09720adb6c",
+    "type": "start",
+    "sourcePosition": "right",
+    "data": {
+      "id": "Agama-start-Flow-45d9dabc-1699-439d-8860-fc09720adb6c",
+      "type": "Agama-start-Flow",
+      "position": {
+        "x": 24,
+        "y": 78
+      },
+      "handles": [],
+      "agamaData": {
+        "id": "Agama-start-Flow-45d9dabc-1699-439d-8860-fc09720adb6c",
+        "type": "Agama-start-Flow",
+        "hasSuccess": false,
+        "hasFailure": false,
+        "hasRepeat": false,
+        "hasNoRepeat": false,
+        "name": "",
+        "basepath": "",
+        "comment": "",
+        "notes": "",
+        "flowfilename": "",
+        "assignedvariableName": "",
+        "callType": "Call static method",
+        "arguments": "",
+        "logMessage": "",
+        "variableType": "",
+        "templatePath": "",
+        "maxIteration": "",
+        "idpAuthEndpoint": "",
+        "whenVariable": "",
+        "whenConditionInputField": "",
+        "whenValue": "",
+        "returnVariable": "",
+        "asssignmentExpression": "",
+        "javaClassName": "",
+        "javaMethodName": "",
+        "javaVariableName": "",
+        "maxIterationVariableName": "",
+        "logLevel": "",
+        "assignCallbackResult": "",
+        "displayName": "Basic Auth Flow",
+        "nodeColor": "",
+        "flowname": "co.hello.basic"
+      }
+    },
+    "position": {
+      "x": 30,
+      "y": 30
+    }
+  }
+]
