@@ -1,15 +1,4 @@
 {
-    "test": {
-        "projectName": "test",
-        "description": "lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "1.0.0",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1681299011387"
-    },
     "basic": {
         "projectName": "basic",
         "description": "lorem ipsum dolor sit amet",
