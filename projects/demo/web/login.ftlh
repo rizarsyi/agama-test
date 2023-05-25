@@ -8,7 +8,7 @@
           <style>* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;font-family:"Open Sans", sans-serif;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;}.input:focus + .label, .input:active + .label, .input.filled + .label{font-size:0.75rem;transition-duration:0.2s;transition-timing-function:ease-out;transition-delay:0s;transition-property:all;top:-0.9rem;background-color:rgb(255, 255, 255);color:rgb(26, 115, 232);padding-top:0px;padding-right:5px;padding-bottom:0px;padding-left:5px;margin-top:0px;margin-right:5px;margin-bottom:0px;margin-left:5px;}input{border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-color:rgb(0, 0, 0);border-right-color:rgb(0, 0, 0);border-bottom-color:rgb(0, 0, 0);border-left-color:rgb(0, 0, 0);border-image-source:initial;border-image-slice:initial;border-image-width:initial;border-image-outset:initial;border-image-repeat:initial;}</style>
           
           </head>
-          <body id="ijuq"><title> Jans Agama Basic Auth flow </title><h2>Welcome</h2><hr/>
+          <body><title> Jans Agama Basic Auth flow </title><h2>Welcome</h2><hr/>
 
      [#if !(success!true)]
        <p class="fs-6 text-danger mb-3">${msgs[&quot;login.errorMessage&quot;]}</p>
