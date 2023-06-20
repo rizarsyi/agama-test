@@ -20,21 +20,5 @@
         "githubUri": "https://github.com/rizarsyi/agama-test",
         "license": "MIT",
         "lastUpdated": "1684654670105"
-    },
-    "agama_auth": {
-        "projectName": "agama_auth",
-        "description": "Lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1686476772206",
-        "tags": [
-            "testing",
-            "demo",
-            "agama"
-        ]
     }
 }
