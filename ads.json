@@ -39,21 +39,5 @@
             "test",
             "authentication"
         ]
-    },
-    "basic_auth": {
-        "projectName": "basic_auth",
-        "description": "Lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1687524807679",
-        "tags": [
-            "gluu",
-            "jans",
-            "openid"
-        ]
     }
 }
