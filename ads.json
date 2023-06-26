@@ -38,7 +38,8 @@
         "lastUpdated": "1687806476408",
         "tags": [
             "demo",
-            "test"
+            "test",
+            "openid-connect"
         ]
     }
 }
