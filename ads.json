@@ -40,5 +40,19 @@
             "demo",
             "test"
         ]
+    },
+    "test2": {
+        "projectName": "test2",
+        "description": "dsadsads",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1687846892231",
+        "tags": [
+            "asdasd"
+        ]
     }
 }
