@@ -52,7 +52,8 @@
         "license": "MIT",
         "lastUpdated": "1687846892231",
         "tags": [
-            "asdasd"
+            "openid-connect",
+            "authentication"
         ]
     }
 }
