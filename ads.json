@@ -113,20 +113,5 @@
             "demo",
             "test"
         ]
-    },
-    "testing3": {
-        "projectName": "testing3",
-        "description": "lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1687978664555",
-        "tags": [
-            "test",
-            "demo"
-        ]
     }
 }
