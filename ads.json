@@ -154,5 +154,19 @@
         "tags": [
             "teest"
         ]
+    },
+    "test4342": {
+        "projectName": "test4342",
+        "description": "lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1688565115877",
+        "tags": [
+            "test"
+        ]
     }
 }
