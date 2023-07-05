@@ -140,5 +140,19 @@
         "tags": [
             "test"
         ]
+    },
+    "test4343": {
+        "projectName": "test4343",
+        "description": "fdsfdsfdsf",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1688550663263",
+        "tags": [
+            "teest"
+        ]
     }
 }
