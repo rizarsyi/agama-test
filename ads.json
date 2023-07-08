@@ -8,7 +8,10 @@
         "authorWebsite": "https://github.com/rizarsyi/agama-test",
         "githubUri": "https://github.com/rizarsyi/agama-test",
         "license": "MIT",
-        "lastUpdated": "1684654670105"
+        "lastUpdated": "1684654670105",
+        "tags": [
+            "openid-connect"
+        ]
     },
     "testing": {
         "projectName": "testing",
