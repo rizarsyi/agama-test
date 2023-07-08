@@ -196,5 +196,19 @@
         "tags": [
             "authentication"
         ]
+    },
+    "agama_tester": {
+        "projectName": "agama_tester",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1688807729079",
+        "tags": [
+            "authentication"
+        ]
     }
 }
