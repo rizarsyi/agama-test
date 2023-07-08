@@ -10,7 +10,8 @@
         "license": "MIT",
         "lastUpdated": "1684654670105",
         "tags": [
-            "openid-connect"
+            "openid-connect",
+            "jans"
         ]
     },
     "testing": {
