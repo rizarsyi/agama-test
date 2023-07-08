@@ -1,7 +1,7 @@
 {
     "demo": {
         "projectName": "demo",
-        "description": "Lorem ipsum dolor sit amet",
+        "description": "Dududududu",
         "type": "community",
         "author": "rizarsyi",
         "version": "0.0.5",
@@ -10,8 +10,7 @@
         "license": "MIT",
         "lastUpdated": "1684654670105",
         "tags": [
-            "openid-connect",
-            "jans"
+            "openid-connect"
         ]
     },
     "testing": {
