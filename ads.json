@@ -99,20 +99,6 @@
             "test"
         ]
     },
-    "test434": {
-        "projectName": "test434",
-        "description": "dsadsadsa",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1688567657282",
-        "tags": [
-            "openid-connect"
-        ]
-    },
     "testriza": {
         "projectName": "testriza",
         "description": "Lorem ipsum dolor sit amet",
