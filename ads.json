@@ -71,20 +71,6 @@
             "community"
         ]
     },
-    "testing2": {
-        "projectName": "testing2",
-        "description": "dsadsad",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1688166374717",
-        "tags": [
-            "authentication"
-        ]
-    },
     "tes3": {
         "projectName": "tes3",
         "description": "lorem ipsum dolor sit amet",
