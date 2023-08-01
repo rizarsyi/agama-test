@@ -56,20 +56,6 @@
             "openid-connect"
         ]
     },
-    "testing55": {
-        "projectName": "testing55",
-        "description": "dsadsadsadsd",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1689274204853",
-        "tags": [
-            "openid-connect"
-        ]
-    },
     "testing57": {
         "projectName": "testing57",
         "description": "dsadsadsd",
