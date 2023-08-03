@@ -97,5 +97,19 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "hello world": {
+        "projectName": "hello world",
+        "description": "fdfdfdf",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/agama-test",
+        "githubUri": "https://github.com/rizarsyi/agama-test",
+        "license": "MIT",
+        "lastUpdated": "1691059644757",
+        "tags": [
+            "openid-connect"
+        ]
     }
 }
