@@ -15,7 +15,7 @@
 		  </label></div><div class="relative mb-2"><input type="password" id="password" name="password" autofocus class="w-full rounded px-3 border border-gray-300 pt-5 pb-2 focus:border-green-700 focus:ring-1 focus:ring-green-700 focus:outline-none input active:outline-none"/><label for="password" class="label absolute mt-2 ml-3 leading-tighter text-gray-600 text-base cursor-text">
 			Password
 		  </label></div><div class="space-y-9"><div class="text-sm flex justify-center items-center"><button type="submit" class="py-2 px-6 rounded text-white btn bg-green-500 hover:bg-green-600">Submit</button></div></div></form></div></div></body><script type="javascript" src="../scripts/test.js">
-</body>
+  </body>
 <style>* {
   box-sizing: border-box;
   }
@@ -92,5 +92,5 @@
 	top:0.4rem;
 	left:0px;
   }
-</style></script>
+  </style></script>
           </html>
