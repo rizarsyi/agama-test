@@ -1,7 +1,7 @@
 {
     "demo": {
         "projectName": "demo",
-        "description": "Lorem ipsum dolor sit amet",
+        "description": "string",
         "type": "community",
         "author": "rizarsyi",
         "version": "0.0.9",
@@ -10,7 +10,7 @@
         "license": "MIT",
         "lastUpdated": "1684654670105",
         "tags": [
-            "openid-connect"
+            "string"
         ]
     },
     "test": {
