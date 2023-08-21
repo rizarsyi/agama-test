@@ -11,6 +11,9 @@
         "lastUpdated": "1684654670105",
         "tags": [
             "string"
+        ],
+        "noDirectLaunch": [
+            "sampleflow"
         ]
     },
     "test": {
