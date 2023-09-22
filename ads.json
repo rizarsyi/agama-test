@@ -31,20 +31,6 @@
             "test"
         ]
     },
-    "testing_gama": {
-        "projectName": "testing_gama",
-        "description": "Lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1689222773216",
-        "tags": [
-            "openid-connect"
-        ]
-    },
     "auth_demo": {
         "projectName": "auth_demo",
         "description": "Lorem ipsum dolor sit amet",
