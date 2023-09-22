@@ -16,21 +16,6 @@
             "sampleflow"
         ]
     },
-    "test": {
-        "projectName": "test",
-        "description": "lorem ipsum dolor sit amet",
-        "type": "community",
-        "author": "rizarsyi",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/rizarsyi/agama-test",
-        "githubUri": "https://github.com/rizarsyi/agama-test",
-        "license": "MIT",
-        "lastUpdated": "1687806476408",
-        "tags": [
-            "demo",
-            "test"
-        ]
-    },
     "auth_demo": {
         "projectName": "auth_demo",
         "description": "Lorem ipsum dolor sit amet",
