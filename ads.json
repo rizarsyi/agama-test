@@ -14,7 +14,12 @@
         ],
         "noDirectLaunch": [
             "sampleflow"
-        ]
+        ],
+        "configs": {
+            "co.basic.otp": {
+                "test": "hello"
+            }
+        }
     },
     "auth_demo": {
         "projectName": "auth_demo",
