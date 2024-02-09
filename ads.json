@@ -33,7 +33,10 @@
         "lastUpdated": "1689345103759",
         "tags": [
             "authentication"
-        ]
+        ],
+        "noDirectLaunch": [
+            "sample-direct-flow"
+        ],
     },
     "riza-test": {
         "projectName": "riza-test",
