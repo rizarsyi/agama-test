@@ -36,7 +36,7 @@
         ],
         "noDirectLaunch": [
             "sample-direct-flow"
-        ],
+        ]
     },
     "riza-test": {
         "projectName": "riza-test",
